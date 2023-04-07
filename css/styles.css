@@ -190,10 +190,12 @@ a, a:hover {
     font-size: 18px;
     color: var(--color-light-gray);
     margin-top: 25px;
+    text-align: center;
 }
 
 .game-paragraph {
     font-size: 12px;
+    text-align: center;
     color: var(--color-light-gray);
 }
 
